@@ -18,4 +18,12 @@
 ---
 7. Write a program that implements a recurrent LSTM neural network for recognizing the emotional coloring of text. Use the Yelp Dataset.
 ---
+8. Write a program that implements a CNN-bi-LSTM neural network for speech-to-text recognition. Use the LJ-Speech dataset.
+---
+Module Control Assignment. Write a program that implements the detection of the logo from Lab6, or the pet from the Lab5 on video. 
+  - Create a data set for YOLO type NN.
+  - Augment the dataset using the library https://albumentations.ai/docs/getting_started/bounding_boxes_augmentation/
+  - Create and train the YoloV8 neural network using the library https://www.ultralytics.com/ru/yolo
+  - Process the video with trained NN and frame the found object. 
+---
 **NOTE:** To learn more info about the projects see the pdf docs in each folder.
